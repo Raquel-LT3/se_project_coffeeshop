@@ -37,6 +37,14 @@
     max-width: 729px;
   }
 
+  .subheading {
+    font-weight: 700;
+}
+
+.text {
+    font-weight: 400;
+}
+
   .header__span-accent {
     color: #3f96f3;
     display: block;
