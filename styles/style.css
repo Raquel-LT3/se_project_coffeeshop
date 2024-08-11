@@ -4,7 +4,7 @@
     margin: 0 auto;
     font-size: 16px;
     line-height: 20px;
-    font-family: "Inter", "Noto serif", "Arial", "sans-serif", "Times New Roman";
+    font-family: "Inter", Arial, sans-serif;
 }
 
 .header {
@@ -28,7 +28,7 @@
 
   .header__title {
     margin: 183px 0 0;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-weight: 500; 
     font-size: 60px;
     line-height: 72px;
@@ -45,7 +45,7 @@
     line-height: 72px;
   }
   .header__description {
-    font-family:"Noto serif", "Times New Roman", sans-serif;
+    font-family: "Noto serif", "Times New Roman", serif;
     font-size: 20px;
     line-height:30px;
     margin: 28px 0 0;
@@ -64,7 +64,7 @@
 
   .header__paragraph{
     margin: 0;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: "Inter", Arial, sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -95,7 +95,7 @@
   .nav__link {
     color: #000;
     text-decoration: none;
-    font-family:"Noto serif", "Times New Roman", serif;
+    font-family: "Noto serif", "Times New Roman", serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
@@ -133,7 +133,7 @@
 
 .recipes__subtitle {
   margin: 0 0 80px;
-  font-family:"Noto serif", "Times New Roman", serif;
+  font-family: "Noto serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -145,7 +145,7 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  font-family: "Inter", "Arial", sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
