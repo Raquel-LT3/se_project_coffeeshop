@@ -1,31 +1,8 @@
-.menu {
-    padding: 100px 0 100px;
-    background-image: url(../images/background_menu.svg);
-    background-position: center;
+.card {
+    width: 540px;
 }
 
-.menu__title {
-    text-align: center;
-    max-width: 780px; 
-    padding-bottom: 24px;
-    margin: 0 auto;
-    font-family: "Inter", Arial, sans-serif;
-    font-weight: 500;
-    font-size: 44px;
-    line-height: 52px;
-}
-
-.menu__subtitle {
-    text-align: center;
-    margin: 0 auto;
-    font-family: "Noto serif", "Times New Roman", serif;
-    font-size: 20px;
-    line-height: 30px;
-    max-width: 780px; 
-    padding-bottom: 100px;
-}
-
-.menu__cards{
+.menu__cards {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -33,10 +10,6 @@
     padding: 0;
     margin: 0;
     list-style-type: none;
-}
-
-.card {
-    width: 540px;
 }
 
 .card__title {
