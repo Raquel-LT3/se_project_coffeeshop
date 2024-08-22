@@ -23,8 +23,6 @@
 
  .footer__list-item {
     margin-bottom: 10px;
-    align-items: center;
-    gap: 10px;
 }
 
 .footer__list-item:last-child {
@@ -34,7 +32,6 @@
 .footer__social {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
 }
 
 .footer__social-heading {
