@@ -57,6 +57,7 @@
     font-family: "Inter", Arial, Sans-serif;
     font-size: 16px;
     line-height: 20px;
+    transition: opacity, color .3s ease-in-out;
 }
   
 .footer__social-link:hover {
